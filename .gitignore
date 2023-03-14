@@ -1,0 +1,6 @@
+.git
+.vscode
+.vs
+*/out
+*/build
+*.exe
